@@ -1,8 +1,6 @@
 # MACS to HuggingFace Datasets Converter
 
-**Turn the raw Multilingual Audio Captioning in real-life Scenes (MACS) release into a single, streaming-ready Hugging Face `datasets.Dataset`—in one command.**
 
-**Link to the processed data (using this script): [https://huggingface.co/datasets/milesway6/MACS](https://huggingface.co/datasets/milesway6/MACS)**
 
 <div align="center">
 
@@ -11,6 +9,10 @@
 [![HF Datasets](https://img.shields.io/badge/🤗-datasets-blue)](https://huggingface.co/datasets/milesway6/MACS)
 
 </div>
+
+**Turn the raw Multilingual Audio Captioning in real-life Scenes (MACS) release into a single, streaming-ready Hugging Face `datasets.Dataset`—in one command.**
+
+**Link to the processed data (processed using the script in this repo): [https://huggingface.co/datasets/milesway6/MACS](https://huggingface.co/datasets/milesway6/MACS)**
 
 ---
 
@@ -116,7 +118,7 @@ Authenticate once with `huggingface-cli login` or provide your token with `--hf_
 
 * **Code** in this repository—MIT.
 * **Dataset** Refer the original MACS distribution.
-  This project **does not redistribute audio**; it only restructures publicly available metadata.
+*  This project is only a restruction of publicly available dataset.
 
 ---
 
