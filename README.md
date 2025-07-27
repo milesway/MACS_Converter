@@ -114,7 +114,7 @@ Authenticate once with `huggingface-cli login` or provide your token with `--hf_
 
 ---
 
-## 7. License
+## 6. License
 
 * **Code** in this repository—MIT.
 * **Dataset** Refer the original MACS distribution.
